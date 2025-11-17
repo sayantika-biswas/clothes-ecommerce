@@ -1,0 +1,375 @@
+{
+  "products": [
+    {
+      "id": "prod_001",
+      "productName": "Classic Cotton T-Shirt",
+      "brand": "Style Union",
+      "price": 1299,
+      "originalPrice": 1599,
+      "discount": 19,
+      "category": "Women",
+      "subCategory": "Western Wear",
+      "productType": "T-Shirts",
+      "color": "White",
+      "productDetails": {
+        "fabric": "100% Cotton",
+        "care": "Machine Wash",
+        "fit": "Regular Fit",
+        "sleeve": "Short Sleeve",
+        "neck": "Round Neck",
+        "pattern": "Solid"
+      },
+      "sizes": [
+        {
+          "size": "S",
+          "sizeLabel": "Small",
+          "count": 15,
+          "inStock": true
+        },
+        {
+          "size": "M",
+          "sizeLabel": "Medium",
+          "count": 22,
+          "inStock": true
+        },
+        {
+          "size": "L",
+          "sizeLabel": "Large",
+          "count": 18,
+          "inStock": true
+        },
+        {
+          "size": "XL",
+          "sizeLabel": "Extra Large",
+          "count": 0,
+          "inStock": false
+        }
+      ],
+      "productDescription": "Our classic cotton t-shirt is perfect for everyday wear. Made from 100% premium cotton, it offers exceptional comfort and durability. The regular fit ensures a comfortable wearing experience while maintaining a stylish look.",
+      "features": [
+        "100% Premium Cotton",
+        "Pre-shrunk fabric",
+        "Reinforced neckline",
+        "Double-stitched seams",
+        "Machine washable"
+      ],
+      "images": [
+        {
+          "url": "/p00.png",
+          "alt": "Classic Cotton T-Shirt Front View"
+        },
+        {
+          "url": "/p01.png",
+          "alt": "Classic Cotton T-Shirt Back View"
+        }
+      ],
+      "rating": 4.5,
+      "reviewCount": 128,
+      "inStock": true,
+      "isFeatured": true,
+      "isNewArrival": false,
+      "tags": ["casual", "cotton", "basic", "everyday"]
+    },
+    {
+      "id": "prod_002",
+      "productName": "Slim Fit Denim Jeans",
+      "brand": "Style Union",
+      "price": 2999,
+      "originalPrice": 3499,
+      "discount": 14,
+      "category": "Men",
+      "subCategory": "Western Wear", 
+      "productType": "Jeans",
+      "color": "Dark Blue",
+      "productDetails": {
+        "fabric": "98% Cotton, 2% Elastane",
+        "care": "Machine Wash Cold",
+        "fit": "Slim Fit",
+        "rise": "Mid Rise",
+        "closure": "Zip Fly with Button",
+        "wash": "Stone Wash"
+      },
+      "sizes": [
+        {
+          "size": "28",
+          "sizeLabel": "28 Inch",
+          "count": 8,
+          "inStock": true
+        },
+        {
+          "size": "30",
+          "sizeLabel": "30 Inch",
+          "count": 12,
+          "inStock": true
+        },
+        {
+          "size": "32",
+          "sizeLabel": "32 Inch",
+          "count": 20,
+          "inStock": true
+        }
+      ],
+      "productDescription": "Elevate your casual wardrobe with these slim fit denim jeans. Crafted with a blend of cotton and elastane for optimal comfort and flexibility.",
+      "features": [
+        "Stretch denim for comfort",
+        "Reinforced stitching",
+        "Five-pocket design",
+        "Tapered leg opening"
+      ],
+      "images": [
+        {
+          "url": "/p00.png",
+          "alt": "Classic Cotton T-Shirt Front View"
+        },
+        {
+          "url": "/p01.png",
+          "alt": "Classic Cotton T-Shirt Back View"
+        }
+      ],
+      "rating": 4.3,
+      "reviewCount": 89,
+      "inStock": true,
+      "isFeatured": false,
+      "isNewArrival": true,
+      "tags": ["denim", "slim-fit", "casual", "premium"]
+    },
+    {
+      "id": "prod_003",
+      "productName": "Floral Print Summer Dress",
+      "brand": "Style Union",
+      "price": 2499,
+      "originalPrice": 2999,
+      "discount": 17,
+      "category": "Women",
+      "subCategory": "Western Wear",
+      "productType": "Dresses",
+      "color": "Multicolor Floral",
+      "productDetails": {
+        "fabric": "Viscose Rayon",
+        "care": "Dry Clean Only",
+        "fit": "A-Line",
+        "sleeve": "Short Sleeve",
+        "length": "Knee Length",
+        "pattern": "Floral Print"
+      },
+      "sizes": [
+        {
+          "size": "XS",
+          "sizeLabel": "Extra Small",
+          "count": 5,
+          "inStock": true
+        },
+        {
+          "size": "S",
+          "sizeLabel": "Small",
+          "count": 10,
+          "inStock": true
+        },
+        {
+          "size": "M",
+          "sizeLabel": "Medium",
+          "count": 15,
+          "inStock": true
+        }
+      ],
+      "productDescription": "Embrace the summer vibes with this beautiful floral print dress. The A-line silhouette flatters every body type.",
+      "features": [
+        "Breathable viscose fabric",
+        "Flowy A-line silhouette",
+        "Hidden side zipper",
+        "Lined for opacity"
+      ],
+      "images": [
+        {
+          "url": "/p00.png",
+          "alt": "Classic Cotton T-Shirt Front View"
+        },
+        {
+          "url": "/p01.png",
+          "alt": "Classic Cotton T-Shirt Back View"
+        }
+      ],
+      "rating": 4.7,
+      "reviewCount": 156,
+      "inStock": true,
+      "isFeatured": true,
+      "isNewArrival": false,
+      "tags": ["dress", "floral", "summer", "women"]
+    },
+    {
+      "id": "prod_004",
+      "productName": "Traditional Silk Saree",
+      "brand": "Style Union",
+      "price": 5999,
+      "originalPrice": 7499,
+      "discount": 20,
+      "category": "Women",
+      "subCategory": "Ethnic Wear",
+      "productType": "Sarees",
+      "color": "Red",
+      "productDetails": {
+        "fabric": "Pure Silk",
+        "care": "Dry Clean Only",
+        "work": "Zari Border",
+        "blouse": "Included",
+        "occasion": "Wedding, Festival"
+      },
+      "sizes": [
+        {
+          "size": "Free Size",
+          "sizeLabel": "One Size",
+          "count": 25,
+          "inStock": true
+        }
+      ],
+      "productDescription": "Elegant traditional silk saree with intricate zari work. Perfect for weddings and special occasions.",
+      "features": [
+        "Pure Kanchipuram Silk",
+        "Intricate zari border",
+        "Matching blouse piece",
+        "Rich traditional look"
+      ],
+      "images": [
+        {
+          "url": "/p00.png",
+          "alt": "Classic Cotton T-Shirt Front View"
+        },
+        {
+          "url": "/p01.png",
+          "alt": "Classic Cotton T-Shirt Back View"
+        }
+      ],
+      "rating": 4.9,
+      "reviewCount": 203,
+      "inStock": true,
+      "isFeatured": true,
+      "isNewArrival": false,
+      "tags": ["saree", "ethnic", "wedding", "silk"]
+    },
+    {
+      "id": "prod_005",
+      "productName": "Kids Cartoon Printed T-Shirt",
+      "brand": "Style Union Kids",
+      "price": 899,
+      "originalPrice": 1199,
+      "discount": 25,
+      "category": "Kids",
+      "subCategory": "Western Wear",
+      "productType": "T-Shirts",
+      "color": "Blue",
+      "productDetails": {
+        "fabric": "Cotton Blend",
+        "care": "Machine Wash",
+        "fit": "Regular Fit",
+        "sleeve": "Short Sleeve",
+        "pattern": "Cartoon Print"
+      },
+      "sizes": [
+        {
+          "size": "4-5Y",
+          "sizeLabel": "4-5 Years",
+          "count": 12,
+          "inStock": true
+        },
+        {
+          "size": "6-7Y",
+          "sizeLabel": "6-7 Years",
+          "count": 18,
+          "inStock": true
+        },
+        {
+          "size": "8-9Y",
+          "sizeLabel": "8-9 Years",
+          "count": 10,
+          "inStock": true
+        }
+      ],
+      "productDescription": "Fun and comfortable t-shirt for kids with colorful cartoon prints. Perfect for school and playtime.",
+      "features": [
+        "Soft cotton blend",
+        "Kid-friendly prints",
+        "Comfortable fit",
+        "Easy to wash"
+      ],
+     "images": [
+        {
+          "url": "/p00.png",
+          "alt": "Classic Cotton T-Shirt Front View"
+        },
+        {
+          "url": "/p01.png",
+          "alt": "Classic Cotton T-Shirt Back View"
+        }
+      ],
+      "rating": 4.6,
+      "reviewCount": 45,
+      "inStock": true,
+      "isFeatured": false,
+      "isNewArrival": true,
+      "tags": ["kids", "tshirt", "cartoon", "casual"]
+    },
+    {
+      "id": "prod_006",
+      "productName": "Formal Linen Shirt",
+      "brand": "Style Union",
+      "price": 1899,
+      "originalPrice": 2299,
+      "discount": 17,
+      "category": "Men",
+      "subCategory": "Formal Wear",
+      "productType": "Shirts",
+      "color": "Light Blue",
+      "productDetails": {
+        "fabric": "100% Linen",
+        "care": "Machine Wash",
+        "fit": "Slim Fit",
+        "sleeve": "Long Sleeve",
+        "collar": "Classic Collar",
+        "pattern": "Solid"
+      },
+      "sizes": [
+        {
+          "size": "S",
+          "sizeLabel": "Small",
+          "count": 8,
+          "inStock": true
+        },
+        {
+          "size": "M",
+          "sizeLabel": "Medium",
+          "count": 15,
+          "inStock": true
+        },
+        {
+          "size": "L",
+          "sizeLabel": "Large",
+          "count": 12,
+          "inStock": true
+        }
+      ],
+      "productDescription": "Elegant formal linen shirt perfect for office wear and business meetings. Breathable fabric keeps you comfortable all day.",
+      "features": [
+        "100% Pure Linen",
+        "Slim fit design",
+        "Single needle stitching",
+        "Button-down collar"
+      ],
+     "images": [
+        {
+          "url": "/p00.png",
+          "alt": "Classic Cotton T-Shirt Front View"
+        },
+        {
+          "url": "/p01.png",
+          "alt": "Classic Cotton T-Shirt Back View"
+        }
+      ],
+      "rating": 4.4,
+      "reviewCount": 78,
+      "inStock": true,
+      "isFeatured": false,
+      "isNewArrival": false,
+      "tags": ["formal", "shirt", "office", "linen"]
+    }
+  ]
+}

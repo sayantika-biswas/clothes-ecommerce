@@ -1,0 +1,265 @@
+{
+  "navigation": {
+    "topLevel": [
+      {
+        "id": "women",
+        "name": "Women",
+        "url": "/women",
+        "categories": [
+          {
+            "id": "western-wear",
+            "name": "Western Wear",
+            "url": "/women/western-wear",
+            "subcategories": [
+              { "id": "dresses", "name": "Dresses", "url": "/women/western-wear/dresses", "productCount": 245 },
+              { "id": "tops", "name": "Tops & Tees", "url": "/women/western-wear/tops-tees", "productCount": 189 },
+              { "id": "jeans", "name": "Jeans", "url": "/women/western-wear/jeans", "productCount": 156 },
+              { "id": "skirts", "name": "Skirts", "url": "/women/western-wear/skirts", "productCount": 98 },
+              { "id": "shorts", "name": "Shorts", "url": "/women/western-wear/shorts", "productCount": 76 },
+              { "id": "jackets", "name": "Jackets & Coats", "url": "/women/western-wear/jackets-coats", "productCount": 112 }
+            ]
+          },
+          {
+            "id": "ethnic-wear",
+            "name": "Ethnic Wear",
+            "url": "/women/ethnic-wear",
+            "subcategories": [
+              { "id": "kurtas-suits", "name": "Kurtas & Suits", "url": "/women/ethnic-wear/kurtas-suits", "productCount": 324 },
+              { "id": "kurtis-tunics", "name": "Kurtis, Tunics & Tops", "url": "/women/ethnic-wear/kurtis-tunics", "productCount": 287 },
+              { "id": "sarees", "name": "Sarees", "url": "/women/ethnic-wear/sarees", "productCount": 198 },
+              { "id": "lehengas", "name": "Lehengas", "url": "/women/ethnic-wear/lehengas", "productCount": 145 },
+              { "id": "ethnic-bottom", "name": "Ethnic Bottom", "url": "/women/ethnic-wear/ethnic-bottom", "productCount": 167 },
+              { "id": "dupatta", "name": "Dupatta", "url": "/women/ethnic-wear/dupatta", "productCount": 89 }
+            ]
+          },
+          {
+            "id": "loungewear",
+            "name": "Loungewear",
+            "url": "/women/loungewear",
+            "subcategories": [
+              { "id": "pajamas", "name": "Pajamas", "url": "/women/loungewear/pajamas", "productCount": 67 },
+              { "id": "robes", "name": "Robes", "url": "/women/loungewear/robes", "productCount": 45 },
+              { "id": "lounge-sets", "name": "Lounge Sets", "url": "/women/loungewear/lounge-sets", "productCount": 89 },
+              { "id": "sleepwear", "name": "Sleepwear", "url": "/women/loungewear/sleepwear", "productCount": 78 }
+            ]
+          },
+          {
+            "id": "athleisure",
+            "name": "Athleisure",
+            "url": "/women/athleisure",
+            "subcategories": [
+              { "id": "sports-bras", "name": "Sports Bras", "url": "/women/athleisure/sports-bras", "productCount": 56 },
+              { "id": "leggings", "name": "Leggings", "url": "/women/athleisure/leggings", "productCount": 134 },
+              { "id": "active-tops", "name": "Active Tops", "url": "/women/athleisure/active-tops", "productCount": 98 },
+              { "id": "sports-shoes", "name": "Sports Shoes", "url": "/women/athleisure/sports-shoes", "productCount": 76 }
+            ]
+          },
+          {
+            "id": "lingerie",
+            "name": "Lingerie",
+            "url": "/women/lingerie",
+            "subcategories": [
+              { "id": "bras", "name": "Bras", "url": "/women/lingerie/bras", "productCount": 145 },
+              { "id": "panties", "name": "Panties", "url": "/women/lingerie/panties", "productCount": 167 },
+              { "id": "shapewear", "name": "Shapewear", "url": "/women/lingerie/shapewear", "productCount": 89 },
+              { "id": "lingerie-sets", "name": "Lingerie Sets", "url": "/women/lingerie/lingerie-sets", "productCount": 67 }
+            ]
+          },
+          {
+            "id": "accessories",
+            "name": "Accessories",
+            "url": "/women/accessories",
+            "subcategories": [
+              { "id": "handbags", "name": "Handbags", "url": "/women/accessories/handbags", "productCount": 156 },
+              { "id": "jewelry", "name": "Jewelry", "url": "/women/accessories/jewelry", "productCount": 234 },
+              { "id": "scarves", "name": "Scarves", "url": "/women/accessories/scarves", "productCount": 78 },
+              { "id": "belts", "name": "Belts", "url": "/women/accessories/belts", "productCount": 45 },
+              { "id": "sunglasses", "name": "Sunglasses", "url": "/women/accessories/sunglasses", "productCount": 89 }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "men",
+        "name": "Men",
+        "url": "/men",
+        "categories": [
+          {
+            "id": "men-western",
+            "name": "Western Wear",
+            "url": "/men/western-wear",
+            "subcategories": [
+              { "id": "shirts", "name": "Shirts", "url": "/men/western-wear/shirts", "productCount": 187 },
+              { "id": "t-shirts", "name": "T-Shirts", "url": "/men/western-wear/t-shirts", "productCount": 234 },
+              { "id": "jeans-men", "name": "Jeans", "url": "/men/western-wear/jeans", "productCount": 156 },
+              { "id": "trousers", "name": "Trousers", "url": "/men/western-wear/trousers", "productCount": 98 },
+              { "id": "jackets-men", "name": "Jackets", "url": "/men/western-wear/jackets", "productCount": 76 }
+            ]
+          },
+          {
+            "id": "men-ethnic",
+            "name": "Ethnic Wear",
+            "url": "/men/ethnic-wear",
+            "subcategories": [
+              { "id": "kurtas", "name": "Kurtas", "url": "/men/ethnic-wear/kurtas", "productCount": 145 },
+              { "id": "sherwanis", "name": "Sherwanis", "url": "/men/ethnic-wear/sherwanis", "productCount": 67 },
+              { "id": "nehru-jackets", "name": "Nehru Jackets", "url": "/men/ethnic-wear/nehru-jackets", "productCount": 45 },
+              { "id": "dhotis", "name": "Dhotis", "url": "/men/ethnic-wear/dhotis", "productCount": 23 }
+            ]
+          },
+          {
+            "id": "men-sportswear",
+            "name": "Sportswear",
+            "url": "/men/sportswear",
+            "subcategories": [
+              { "id": "sports-tshirts", "name": "Sports T-Shirts", "url": "/men/sportswear/sports-t-shirts", "productCount": 89 },
+              { "id": "track-pants", "name": "Track Pants", "url": "/men/sportswear/track-pants", "productCount": 67 },
+              { "id": "sports-shoes-men", "name": "Sports Shoes", "url": "/men/sportswear/sports-shoes", "productCount": 98 }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "kids",
+        "name": "Kids",
+        "url": "/kids",
+        "categories": [
+          {
+            "id": "girls",
+            "name": "Girls",
+            "url": "/kids/girls",
+            "subcategories": [
+              { "id": "dresses-girls", "name": "Dresses", "url": "/kids/girls/dresses", "productCount": 78 },
+              { "id": "tops-girls", "name": "Tops", "url": "/kids/girls/tops", "productCount": 56 },
+              { "id": "leggings-girls", "name": "Leggings", "url": "/kids/girls/leggings", "productCount": 45 }
+            ]
+          },
+          {
+            "id": "boys",
+            "name": "Boys",
+            "url": "/kids/boys",
+            "subcategories": [
+              { "id": "tshirts-boys", "name": "T-Shirts", "url": "/kids/boys/t-shirts", "productCount": 67 },
+              { "id": "shorts-boys", "name": "Shorts", "url": "/kids/boys/shorts", "productCount": 45 },
+              { "id": "jeans-boys", "name": "Jeans", "url": "/kids/boys/jeans", "productCount": 34 }
+            ]
+          },
+          {
+            "id": "infants",
+            "name": "Infants",
+            "url": "/kids/infants",
+            "subcategories": [
+              { "id": "onesies", "name": "Onesies", "url": "/kids/infants/onesies", "productCount": 56 },
+              { "id": "rompers", "name": "Rompers", "url": "/kids/infants/rompers", "productCount": 34 },
+              { "id": "baby-sets", "name": "Baby Sets", "url": "/kids/infants/baby-sets", "productCount": 45 }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "new-in",
+        "name": "New In",
+        "url": "/new-arrivals",
+        "categories": [
+          {
+            "id": "new-arrivals",
+            "name": "New Arrivals",
+            "url": "/new-arrivals",
+            "subcategories": [
+              { "id": "trending-now", "name": "Trending Now", "url": "/new-arrivals/trending-now", "productCount": 156 },
+              { "id": "just-landed", "name": "Just Landed", "url": "/new-arrivals/just-landed", "productCount": 89 },
+              { "id": "seasonal-collection", "name": "Seasonal Collection", "url": "/new-arrivals/seasonal-collection", "productCount": 234 }
+            ]
+          }
+        ]
+      }
+    ],
+    "discoverSection": [
+      {
+        "id": "western-wear-discover",
+        "name": "Western Wear",
+        "description": "Latest trends in western fashion",
+        "url": "/women/western-wear",
+        "image": "/images/western-wear-discover.jpg"
+      },
+      {
+        "id": "ethnic-wear-discover",
+        "name": "Ethnic Wear",
+        "description": "Traditional and contemporary ethnic styles",
+        "url": "/women/ethnic-wear",
+        "image": "/images/ethnic-wear-discover.jpg"
+      },
+      {
+        "id": "loungewear-discover",
+        "name": "Loungewear",
+        "description": "Comfortable and stylish loungewear",
+        "url": "/women/loungewear",
+        "image": "/images/loungewear-discover.jpg"
+      },
+      {
+        "id": "athleisure-discover",
+        "name": "Athleisure",
+        "description": "Activewear for everyday style",
+        "url": "/women/athleisure",
+        "image": "/images/athleisure-discover.jpg"
+      },
+      {
+        "id": "lingerie-discover",
+        "name": "Lingerie",
+        "description": "Premium intimate wear",
+        "url": "/women/lingerie",
+        "image": "/images/lingerie-discover.jpg"
+      },
+      {
+        "id": "accessories-discover",
+        "name": "Accessories",
+        "description": "Complete your look with accessories",
+        "url": "/women/accessories",
+        "image": "/images/accessories-discover.jpg"
+      }
+    ],
+    "featuredCategories": {
+      "ethnicWear": [
+        {
+          "id": "kurtas-suits-featured",
+          "name": "Kurtas & Suits",
+          "url": "/women/ethnic-wear/kurtas-suits",
+          "image": "/images/kurtas-suits.jpg"
+        },
+        {
+          "id": "kurtis-tunics-featured",
+          "name": "Kurtis, Tunics & Tops",
+          "url": "/women/ethnic-wear/kurtis-tunics",
+          "image": "/images/kurtis-tunics.jpg"
+        },
+        {
+          "id": "co-ord-sets-featured",
+          "name": "Co-ord Sets",
+          "url": "/women/ethnic-wear/co-ord-sets",
+          "image": "/images/co-ord-sets.jpg"
+        },
+        {
+          "id": "ethnic-bottom-featured",
+          "name": "Ethnic Bottom",
+          "url": "/women/ethnic-wear/ethnic-bottom",
+          "image": "/images/ethnic-bottom.jpg"
+        },
+        {
+          "id": "dupatta-featured",
+          "name": "Dupatta",
+          "url": "/women/ethnic-wear/dupatta",
+          "image": "/images/dupatta.jpg"
+        }
+      ]
+    }
+  },
+  "routingStructure": {
+    "pattern": "/:gender/:category/:subcategory?",
+    "examples": [
+      "/women/western-wear/dresses",
+      "/men/ethnic-wear/kurtas", 
+      "/kids/girls/dresses",
+      "/new-arrivals/trending-now"
+    ]
+  }
+}

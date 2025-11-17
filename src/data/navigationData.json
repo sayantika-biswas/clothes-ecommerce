@@ -1,0 +1,178 @@
+{
+  "navigation": {
+    "topLevel": [
+      {
+        "id": "women",
+        "name": "Women",
+        "slug": "women",
+        "categories": [
+          {
+            "id": "western-wear",
+            "name": "Western Wear",
+            "slug": "western-wear",
+            "subcategories": [
+              { "id": "dresses", "name": "Dresses", "slug": "dresses", "productCount": 245 },
+              { "id": "tops", "name": "Tops & Tees", "slug": "tops-tees", "productCount": 189 },
+              { "id": "jeans", "name": "Jeans", "slug": "jeans", "productCount": 156 },
+              { "id": "skirts", "name": "Skirts", "slug": "skirts", "productCount": 98 },
+              { "id": "shorts", "name": "Shorts", "slug": "shorts", "productCount": 76 },
+              { "id": "jackets", "name": "Jackets & Coats", "slug": "jackets-coats", "productCount": 112 }
+            ]
+          },
+          {
+            "id": "ethnic-wear",
+            "name": "Ethnic Wear",
+            "slug": "ethnic-wear",
+            "subcategories": [
+              { "id": "kurtas-suits", "name": "Kurtas & Suits", "slug": "kurtas-suits", "productCount": 324 },
+              { "id": "kurtis-tunics", "name": "Kurtis, Tunics & Tops", "slug": "kurtis-tunics", "productCount": 287 },
+              { "id": "sarees", "name": "Sarees", "slug": "sarees", "productCount": 198 },
+              { "id": "lehengas", "name": "Lehengas", "slug": "lehengas", "productCount": 145 },
+              { "id": "ethnic-bottom", "name": "Ethnic Bottom", "slug": "ethnic-bottom", "productCount": 167 },
+              { "id": "dupatta", "name": "Dupatta", "slug": "dupatta", "productCount": 89 }
+            ]
+          },
+          {
+            "id": "loungewear",
+            "name": "Loungewear",
+            "slug": "loungewear",
+            "subcategories": [
+              { "id": "pajamas", "name": "Pajamas", "slug": "pajamas", "productCount": 67 },
+              { "id": "robes", "name": "Robes", "slug": "robes", "productCount": 45 },
+              { "id": "lounge-sets", "name": "Lounge Sets", "slug": "lounge-sets", "productCount": 89 },
+              { "id": "sleepwear", "name": "Sleepwear", "slug": "sleepwear", "productCount": 78 }
+            ]
+          },
+          {
+            "id": "athleisure",
+            "name": "Athleisure",
+            "slug": "athleisure",
+            "subcategories": [
+              { "id": "sports-bras", "name": "Sports Bras", "slug": "sports-bras", "productCount": 56 },
+              { "id": "leggings", "name": "Leggings", "slug": "leggings", "productCount": 134 },
+              { "id": "active-tops", "name": "Active Tops", "slug": "active-tops", "productCount": 98 },
+              { "id": "sports-shoes", "name": "Sports Shoes", "slug": "sports-shoes", "productCount": 76 }
+            ]
+          },
+          {
+            "id": "lingerie",
+            "name": "Lingerie",
+            "slug": "lingerie",
+            "subcategories": [
+              { "id": "bras", "name": "Bras", "slug": "bras", "productCount": 145 },
+              { "id": "panties", "name": "Panties", "slug": "panties", "productCount": 167 },
+              { "id": "shapewear", "name": "Shapewear", "slug": "shapewear", "productCount": 89 },
+              { "id": "lingerie-sets", "name": "Lingerie Sets", "slug": "lingerie-sets", "productCount": 67 }
+            ]
+          },
+          {
+            "id": "accessories",
+            "name": "Accessories",
+            "slug": "accessories",
+            "subcategories": [
+              { "id": "handbags", "name": "Handbags", "slug": "handbags", "productCount": 156 },
+              { "id": "jewelry", "name": "Jewelry", "slug": "jewelry", "productCount": 234 },
+              { "id": "scarves", "name": "Scarves", "slug": "scarves", "productCount": 78 },
+              { "id": "belts", "name": "Belts", "slug": "belts", "productCount": 45 },
+              { "id": "sunglasses", "name": "Sunglasses", "slug": "sunglasses", "productCount": 89 }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "men",
+        "name": "Men",
+        "slug": "men",
+        "categories": [
+          {
+            "id": "men-western",
+            "name": "Western Wear",
+            "slug": "western-wear",
+            "subcategories": [
+              { "id": "shirts", "name": "Shirts", "slug": "shirts", "productCount": 187 },
+              { "id": "t-shirts", "name": "T-Shirts", "slug": "t-shirts", "productCount": 234 },
+              { "id": "jeans-men", "name": "Jeans", "slug": "jeans", "productCount": 156 },
+              { "id": "trousers", "name": "Trousers", "slug": "trousers", "productCount": 98 },
+              { "id": "jackets-men", "name": "Jackets", "slug": "jackets", "productCount": 76 }
+            ]
+          },
+          {
+            "id": "men-ethnic",
+            "name": "Ethnic Wear",
+            "slug": "ethnic-wear",
+            "subcategories": [
+              { "id": "kurtas", "name": "Kurtas", "slug": "kurtas", "productCount": 145 },
+              { "id": "sherwanis", "name": "Sherwanis", "slug": "sherwanis", "productCount": 67 },
+              { "id": "nehru-jackets", "name": "Nehru Jackets", "slug": "nehru-jackets", "productCount": 45 },
+              { "id": "dhotis", "name": "Dhotis", "slug": "dhotis", "productCount": 23 }
+            ]
+          },
+          {
+            "id": "men-sportswear",
+            "name": "Sportswear",
+            "slug": "sportswear",
+            "subcategories": [
+              { "id": "sports-tshirts", "name": "Sports T-Shirts", "slug": "sports-t-shirts", "productCount": 89 },
+              { "id": "track-pants", "name": "Track Pants", "slug": "track-pants", "productCount": 67 },
+              { "id": "sports-shoes-men", "name": "Sports Shoes", "slug": "sports-shoes", "productCount": 98 }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "kids",
+        "name": "Kids",
+        "slug": "kids",
+        "categories": [
+          {
+            "id": "girls",
+            "name": "Girls",
+            "slug": "girls",
+            "subcategories": [
+              { "id": "dresses-girls", "name": "Dresses", "slug": "dresses", "productCount": 78 },
+              { "id": "tops-girls", "name": "Tops", "slug": "tops", "productCount": 56 },
+              { "id": "leggings-girls", "name": "Leggings", "slug": "leggings", "productCount": 45 }
+            ]
+          },
+          {
+            "id": "boys",
+            "name": "Boys",
+            "slug": "boys",
+            "subcategories": [
+              { "id": "tshirts-boys", "name": "T-Shirts", "slug": "t-shirts", "productCount": 67 },
+              { "id": "shorts-boys", "name": "Shorts", "slug": "shorts", "productCount": 45 },
+              { "id": "jeans-boys", "name": "Jeans", "slug": "jeans", "productCount": 34 }
+            ]
+          },
+          {
+            "id": "infants",
+            "name": "Infants",
+            "slug": "infants",
+            "subcategories": [
+              { "id": "onesies", "name": "Onesies", "slug": "onesies", "productCount": 56 },
+              { "id": "rompers", "name": "Rompers", "slug": "rompers", "productCount": 34 },
+              { "id": "baby-sets", "name": "Baby Sets", "slug": "baby-sets", "productCount": 45 }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "new-in",
+        "name": "New In",
+        "slug": "new-in",
+        "categories": [
+          {
+            "id": "new-arrivals",
+            "name": "New Arrivals",
+            "slug": "new-arrivals",
+            "subcategories": [
+              { "id": "trending-now", "name": "Trending Now", "slug": "trending-now", "productCount": 156 },
+              { "id": "just-landed", "name": "Just Landed", "slug": "just-landed", "productCount": 89 },
+              { "id": "seasonal-collection", "name": "Seasonal Collection", "slug": "seasonal-collection", "productCount": 234 }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}
