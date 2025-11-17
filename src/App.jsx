@@ -4,7 +4,7 @@ import { ToastContainer } from 'react-toastify';
 import Navbar from "./components/Navbar";
 import Home from "./pages/Home";
 import Footer from "./components/Footer";
-import {LoginForm} from "./pages/Login";
+import LoginForm from "./pages/Login";
 import AboutUs from "./pages/AboutUs";
 import ForgotPassword from "./pages/ForgetPassword";
 import ResetPassword from "./pages/ResetPassword";

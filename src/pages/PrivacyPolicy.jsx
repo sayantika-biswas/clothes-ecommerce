@@ -1,7 +1,7 @@
 import React from "react";
 import { FileText, Shield, CreditCard, Truck, User, AlertCircle } from "lucide-react";
 
-const TermsAndConditions = () => {
+const PrivacyPolicy = () => {
   return (
     <div className="min-h-screen bg-gray-50 py-8">
       <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8">
@@ -284,4 +284,4 @@ const TermsAndConditions = () => {
   );
 };
 
-export default TermsAndConditions;
+export default PrivacyPolicy;
